@@ -1,7 +1,5 @@
 var React = require('react');
 
-require('../../styles/base.scss');
-
 var Base = React.createClass ({
   render: function () {
     return (

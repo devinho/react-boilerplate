@@ -8,6 +8,6 @@ var ReactDOM = require('react-dom');
 var Routes = require('./config/Routes');
 
 ReactDOM.render(
-  Routes, 
+  Routes,
   document.getElementById('app')
 );

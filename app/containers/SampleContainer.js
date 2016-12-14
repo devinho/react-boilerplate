@@ -1,7 +1,5 @@
 var React = require('react');
 
-require('../../styles/containers/sample-container.scss');
-
 var SampleContainer = React.createClass ({
   render: function () {
     return (
