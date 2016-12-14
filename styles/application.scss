@@ -1,0 +1,20 @@
+/*
+  NOTE: Do not touch this file. Write the bulk of your custom styles
+  in _base.scss
+*/
+
+// boostrap imports
+@import 'bootstrap/bootstrap-components';
+
+// includes imports
+@import 'includes/variables';
+@import 'includes/mixins';
+
+// base import
+@import 'base';
+
+// component imports
+@import 'components/home';
+
+// container imports
+@import 'containers/sample-container';
